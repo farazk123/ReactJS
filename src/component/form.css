@@ -1,0 +1,164 @@
+.col-sm-6.custom {
+    padding: 0;
+}
+.custom-form h3 {
+margin-bottom: 10%;    
+text-align: center;
+font: normal normal normal 31px/33px Playfair Display;
+}
+.custom-form input[type="email"] {
+    font-size: 16px;
+    padding: 20px;
+    width: 100%;
+    height: 46px;
+    background: var(--unnamed-color-f2f4f0) 0% 0% no-repeat padding-box;
+    background: #F2F4F0 0% 0% no-repeat padding-box;
+    border: 1px solid #C7C7C7;
+    opacity: 1;
+}
+.custom-form input[type="password"] {
+    font-size: 16px;
+    padding: 20px;
+    width: 100%;
+    height: 46px;
+    background: var(--unnamed-color-f2f4f0) 0% 0% no-repeat padding-box;
+    background: #F2F4F0 0% 0% no-repeat padding-box;
+    border: 1px solid #C7C7C7;
+    opacity: 1;
+}
+.setpasscont input[type="text"]{
+    font-size: 16px;
+    padding: 20px;
+    width: 100%;
+    height: 46px;
+    background: var(--unnamed-color-f2f4f0) 0% 0% no-repeat padding-box;
+    background: #F2F4F0 0% 0% no-repeat padding-box;
+    border: 1px solid #C7C7C7;
+    opacity: 1;
+
+}
+.custom-form input[type="submit"] {
+    width: 100%;
+    height: 46px;
+    background: var(--unnamed-color-656f64) 0% 0% no-repeat padding-box;
+    background: #656F64 0% 0% no-repeat padding-box;
+    opacity: 1;
+    margin-top: 5%;
+}
+.custom-form label {
+    text-align: left;
+    font: normal normal normal 20px/19px Playfair Display;
+}
+.custom-form  form {
+    padding: 2% 16% 16% 16%;
+}
+.custom-form  .formlogo {
+    text-align: center;
+}
+
+.setpasscont img {
+    margin-right: 10px;
+    position: relative;
+    float: right;
+    text-align: right;
+    cursor: pointer;
+    width: 20px;
+    margin-top: -32px;
+
+}
+input[type="submit"] {
+    text-align: center;
+    font: normal normal bold 18px/17px Helvetica Neue;
+    color: #FFFFFF;
+}
+.setpasscont {
+    margin-top: 10%;
+}
+.custom-form input[type="submit"] {
+    margin-top: 10%;
+}
+.col-sm-6.custombackground {
+    background-color: #F2F4F0;
+}
+.lef-img img {
+    height: auto;
+    width: 100%;
+}
+.register a {
+    font-weight: bold;
+    color: var(--unnamed-color-656f64);
+    text-align: center;
+    font: normal normal medium 12px/15px Helvetica Neue;
+    color: #656F64;
+}
+.register {
+    text-align: center;
+    margin-top: 25px;
+    font-size: 18px;
+}
+@media only screen and (min-width: 992px){
+.container-fluid {
+    position: relative;
+}
+.col-sm-6.custombackground {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+.custom-form {
+    margin-top: 6%;
+}
+}
+.forgot {
+    text-align: right;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+} 
+.float-container {
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.float-child span {
+    margin-left: 9px;
+}
+.float-child input[type="checkbox"] {
+transform: scale(1.3);
+}
+.custom-form input[type="text"] {
+    font-size: 16px;
+    padding: 20px;
+    width: 100%;
+    height: 46px;
+    background: var(--unnamed-color-f2f4f0) 0% 0% no-repeat padding-box;
+    background: #F2F4F0 0% 0% no-repeat padding-box;
+    border: 1px solid #C7C7C7;
+    opacity: 1;
+    
+}
+.custom-form.register {
+    margin-top: 1%;
+}
+.custom-form.register {
+    text-align: left;
+}
+.float-container.rgstr input {
+    font-weight: 400;
+}
+.float-child.right {
+    width: 49%;
+    float: right;
+}
+.float-child.left {
+    width: 49%;
+    float: left;
+}
+.customheading p {
+    margin-top: -25px;
+    text-align: center;
+    margin-bottom: 50px;
+}
